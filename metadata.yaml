@@ -1,0 +1,28 @@
+_repo: The-Red-One_788
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: The red one.--The hussy.--Like Argus of the ancient times.--The princess.
+gutenberg_issued: '1997-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- !lcsh 'Adventure stories, American'
+- !lcc 'PS'
+tableOfContents: The red one -- The hussy -- Like Argus of the ancient times -- The
+  princess.
+title: The Red One
+url: http://www.gutenberg.org/ebooks/788
