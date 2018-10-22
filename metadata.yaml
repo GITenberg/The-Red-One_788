@@ -1,5 +1,5 @@
 _repo: The-Red-One_788
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ subjects:
 - !lcsh 'Fiction'
 - !lcsh 'Adventure stories, American'
 - !lcc 'PS'
+- GITenberg
 tableOfContents: The red one -- The hussy -- Like Argus of the ancient times -- The
   princess.
 title: The Red One
